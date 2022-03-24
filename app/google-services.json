@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433919381435",
+    "project_id": "push-notification-cb534",
+    "storage_bucket": "push-notification-cb534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433919381435:android:bc36ee2e42bb3faed6be9e",
+        "android_client_info": {
+          "package_name": "com.pushnotificationusingfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433919381435-kggi0t1e9nep5pclhjbgd9u5q6vpkt0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLJ-f1Qm2TmVIeaxjLv7eV0QwfEVodPIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433919381435-kggi0t1e9nep5pclhjbgd9u5q6vpkt0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
